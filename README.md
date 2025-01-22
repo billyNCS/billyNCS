@@ -10,7 +10,6 @@ I'm a passionate developer with a keen interest in building innovative solutions
 - 🤔 I’m looking for help with [Any areas where you need help]
 - 💬 Ask me about [Topics you are knowledgeable about]
 - 📫 How to reach me: [Your Email or other contact information]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A fun fact about yourself]
 
 ## GitHub Stats
